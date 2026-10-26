@@ -1,0 +1,12 @@
+{
+  "name": "moras-viral-video-hook-retention-decomposer-skill",
+  "version": "1.0.0",
+  "description": "Short-form video script structure deconstructor analyzing 0-3s hook retention hazard, pacing decay, and audience drop-off curves",
+  "author": "AlphaPark Engineering",
+  "license": "MIT",
+  "keywords": ["video-retention", "hook-analyzer", "short-form-video", "tiktok-shop", "mcp", "agent-skills"],
+  "mcp": {
+    "supported": true,
+    "entrypoint": "mcp_server.py"
+  }
+}
